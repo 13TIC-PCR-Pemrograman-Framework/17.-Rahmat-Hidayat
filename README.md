@@ -1,2 +1,2 @@
 # 17.-Rahmat-Hidayat
-Sistem informasi reservasi haji
+Sistem Informasi Reservasi Haji
